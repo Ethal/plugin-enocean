@@ -1,5 +1,5 @@
 
-[![license](https://img.shields.io/github/license/NextDom/plugin-enocean.svg)](./LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/NextDom/plugin-enocean.svg)](../../graphs/contributors) [![GitHub release](https://img.shields.io/github/release/NextDom/plugin-enocean.svg)](../../releases) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/ethal) [![Waffle.io - Columns and their card count](https://badge.waffle.io/NextDom/plugin-enocean.svg?columns=all)](https://waffle.io/NextDom/plugin-enocean)
+[![license](https://img.shields.io/github/license/NextDom/plugin-enocean.svg)](./LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/NextDom/plugin-enocean.svg)](../../graphs/contributors) [![GitHub release](https://img.shields.io/github/release/NextDom/plugin-enocean.svg)](../../releases) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/ethal)
 
 ### Master: [![Build Status](https://travis-ci.org/NextDom/plugin-enocean.svg?branch=master)](https://travis-ci.org/NextDom/plugin-enocean)  [![Coverage Status](https://coveralls.io/repos/github/NextDom/plugin-enocean/badge.svg?branch=master)](https://coveralls.io/github/NextDom/plugin-AndroidRemoteControl?branch=master)
 
